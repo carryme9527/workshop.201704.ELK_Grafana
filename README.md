@@ -7,26 +7,26 @@
 ### dashboards
 
 課堂操作
-- [session1](dashboards/ELK-session1.json)
-- [session2](dashboards/ELK-session2.json)
-- [session3](dashboards/ELK-session4.json)
-- [session4](dashboards/ELK-session4-mine.json)
+- [Session1](dashboards/ELK-Session1.json)
+- [Session2](dashboards/ELK-Session2.json)
+- [Session3](dashboards/ELK-Session4.json)
+- [Session4](dashboards/ELK-Session4-mine.json)
 
 作業
-- [session2](dashboards/ELK-session2-hw.json)
-- [session3](dashboards/ELK-session3-hw.json)
-- [session4](dashboards/ELK-session4-hw.json)
+- [Session2](dashboards/ELK-Session2-hw.json)
+- [Session3](dashboards/ELK-Session3-hw.json)
+- [Session4](dashboards/ELK-Session4-hw.json)
 
 ### screenshots
 
 第二堂作業
-![第二堂作業](screenshots/session2-hw.png)
+![第二堂作業](screenshots/Session2-hw.png)
 
 第三堂作業一
-![第三堂作業一](screenshots/session3-hw1.png)
+![第三堂作業一](screenshots/Session3-hw1.png)
 
 第三堂作業二
-![第三堂作業二](screenshots/session3-hw2.png)
+![第三堂作業二](screenshots/Session3-hw2.png)
 
 第四堂作業
-![第四堂作業](screenshots/session4-hw.png)
+![第四堂作業](screenshots/Session4-hw.png)
